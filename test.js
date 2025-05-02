@@ -19,4 +19,3 @@ function calculate() {
 calculate();
 
 console.log("Global x:", x);
-// console.log("Global z:", z); 
