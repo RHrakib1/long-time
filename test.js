@@ -19,3 +19,4 @@ function calculate() {
 calculate();
 
 console.log("Global x:", x);
+console.log('how are you')
