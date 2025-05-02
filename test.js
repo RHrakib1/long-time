@@ -1,6 +1,4 @@
 let x = 5;
-
-// Inside if 15 hbe///
 function calculate() {
     let x = 10;
 
@@ -15,10 +13,10 @@ function calculate() {
 
     console.log("Inside function x:", x);
     console.log("Inside function z:", z);
-    // console.log("Inside function y:", y); // uncomment করলে কী হবে?
+    // console.log("Inside function y:", y); 
 }
 
 calculate();
 
 console.log("Global x:", x);
-// console.log("Global z:", z); // uncomment করলে কী হবে?
+// console.log("Global z:", z); 
